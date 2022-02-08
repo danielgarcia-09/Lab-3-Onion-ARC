@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1e929f44-e490-45f2-abe1-aef395e83493": {
+      "ProjectGuid": "1e929f44-e490-45f2-abe1-aef395e83493",
+      "DisplayName": "OnionArchitecture",
+      "ColorIndex": 0
+    },
+    "37f060cf-6351-4b8d-97a2-efe694922e4d": {
+      "ProjectGuid": "37f060cf-6351-4b8d-97a2-efe694922e4d",
+      "DisplayName": "OnionArchitecture.Services",
+      "ColorIndex": 1
+    },
+    "e54cb657-e2ca-41e8-a165-31597bb6ddea": {
+      "ProjectGuid": "e54cb657-e2ca-41e8-a165-31597bb6ddea",
+      "DisplayName": "OnionArchitecture.Bl",
+      "ColorIndex": 2
+    },
+    "b6bcda19-0a4d-46c2-a685-3b4f61dacffe": {
+      "ProjectGuid": "b6bcda19-0a4d-46c2-a685-3b4f61dacffe",
+      "DisplayName": "OnionArchitecture.Model",
+      "ColorIndex": 3
+    },
+    "af3826ee-a2e6-4a22-8b9e-af4021a9d4a0": {
+      "ProjectGuid": "af3826ee-a2e6-4a22-8b9e-af4021a9d4a0",
+      "DisplayName": "OnionArchitecture.Core",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "be25a3a4-e999-4f7c-b7ef-d8b224961cd0": {
+      "ProjectGuid": "be25a3a4-e999-4f7c-b7ef-d8b224961cd0",
+      "DisplayName": "EmailService",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

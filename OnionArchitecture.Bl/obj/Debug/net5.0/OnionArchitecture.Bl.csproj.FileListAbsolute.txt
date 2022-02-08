@@ -1,0 +1,17 @@
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Bl.deps.json
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Bl.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\ref\OnionArchitecture.Bl.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Bl.pdb
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.AssemblyInfo.cs
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\ref\OnionArchitecture.Bl.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.pdb
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Core.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Model.dll
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Model.pdb
+C:\Users\danie\source\repos\OnionArchitecture.Bl\bin\Debug\net5.0\OnionArchitecture.Core.pdb
+C:\Users\danie\source\repos\OnionArchitecture.Bl\obj\Debug\net5.0\OnionArchitecture.Bl.csproj.CopyComplete

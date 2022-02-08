@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5OsliCLzD2XKBgSFysMBAzXlvtamKZB32yqX2PkWrkUGE7o6BppwsSbE07RSR/qjMwZ5hQnGO07FPKjOkG1Cg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\OnionArchitecture.Core\\OnionArchitecture.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
